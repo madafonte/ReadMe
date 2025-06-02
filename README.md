@@ -35,9 +35,9 @@ Estou apenas começando minha jornada, mas determinada a aproveitar cada oportun
 
 ## GitHub Stats:
 
-![Maria Augusta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
+![Maria Augusta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madafonte&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madafonte&layout=compact&theme=dark)
 
 ---
 
