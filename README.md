@@ -18,7 +18,6 @@ Estou apenas começando minha jornada, mas determinada a aproveitar cada oportun
 
 ##  Sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gutadafonte_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaaugustadafonte) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaaugustahdafonte@gmail.com)
 
