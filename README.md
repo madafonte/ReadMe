@@ -1,18 +1,18 @@
-# ReadMe<h1 align="center">👋 Olá! Eu sou Maria Augusta</h1>
-
-<p align="center">
-💻 Estudante de Ciência da Computação <br>
-🎯 Focada em precisão, inovação e delicadeza <br>
-🌱 Explorando projetos com Python, Web e acessibilidade <br>
-</p>
+# <h1 align="center">👋 Olá! Eu sou Maria Augusta</h1>
 
 ---
 
-## 🐣 Sobre Mim:
+## Sobre Mim:
 
-Quando eu tinha 15 anos, participei de um Startup Weekend...  
-*(Adapte aqui com seu texto pessoal da sua trajetória, como no exemplo da imagem!)*  
-Agora estou de volta ao meu caminho, sem atalhos, apenas aproveitando o processo.
+Desde criança, sempre fui fascinada por tecnologia — jogos, computadores e entender como as coisas funcionavam sempre despertaram minha curiosidade.
+
+Mesmo sem saber exatamente qual área seguir, sempre tive certeza de que estaria na tecnologia. Com o tempo, fui me encontrando no universo da programação, onde posso solucionar problemas com lógica, precisão e propósito.
+
+Hoje, sou estudante de Ciência da Computação no CESAR School e me sinto feliz por estar construindo algo que tem tudo a ver comigo. Sigo aprendendo, errando, ajustando… e me divertindo muito nesse processo.
+
+Tenho interesse em desenvolver habilidades em diversas linguagens de programação e em solucionar, de forma criativa, desafios do mundo real. Sou uma pessoa proativa, organizada e empática, com facilidade para liderar e trabalhar em equipe, contribuindo em contextos técnicos e colaborativos.
+
+Estou apenas começando minha jornada, mas determinada a aproveitar cada oportunidade que me ajude a transformar aprendizado em prática e crescer na área.
 
 ---
 
